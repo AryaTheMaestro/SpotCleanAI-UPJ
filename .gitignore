@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+# Bobot model dikelola terpisah dari kode (SRS 11.3)
+models/*.pt
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/

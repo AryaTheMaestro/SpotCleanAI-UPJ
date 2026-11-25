@@ -1,0 +1,7 @@
+[server]
+headless = true
+port = 8501
+maxUploadSize = 10   # MB, samakan dengan MAX_UPLOAD_MB di config.py
+
+[browser]
+gatherUsageStats = false
